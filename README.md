@@ -41,7 +41,7 @@ jupyter notebook liver_capstone_analysis.ipynb
 👤 Author
 
 Abdul Wahab, MBBS — transitioning toward Clinical AI & healthcare data science.
-LinkedIn - linkedin.com/in/dr-abdul-wahab-memon-1ab19a3b4
+LinkedIn - https://www.linkedin.com/in/dr-abdul-wahab-memon-1ab19a3b4
 Github - https://github.com/dr-wahab00
 
 ⚠️ Disclaimer
